@@ -1,5 +1,7 @@
 body {
     background-color: darkslategray;
+    height: 100%;
+    margin: 0;
 }
 #title {
     text-align: right;
@@ -24,4 +26,25 @@ body {
 }
 #alan {
     padding-bottom: 50%;
+}
+#meetAlan{
+    padding-top: 5%;
+}
+#meetAlanDiv{
+    text-align: center;
+}
+#socialMedia{
+    padding-top: 5%;
+}
+#socialMediaDiv{
+    text-align: center;
+}
+#bookNow{
+    padding-top: 5%;
+}
+.footer{
+    background-color: transparent;
+    align-content: center;
+    bottom: 0;
+    position: fixed;
 }
